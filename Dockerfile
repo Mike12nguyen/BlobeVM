@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-kasmvnc:kali-version-e419ea97
+FROM FROM ghcr.io/linuxserver/baseimage-kasmvnc:ubuntujammy-version-6d72ea2d
 
 # set version label
 ARG BUILD_DATE
